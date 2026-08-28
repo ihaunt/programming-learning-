@@ -1,5 +1,6 @@
 # programming-learning
 
+
 Repositório com meus exercícios e mini projetos de programação, organizados por linguagem/contexto de aprendizado. A ideia aqui é registrar a evolução: comecei praticando lógica em **Portugol**, migrei para **C** para fixar sintaxe e conceitos de baixo nível, e reúno também os trabalhos desenvolvidos na **UAB**.
 
 ## 📁 Estrutura
@@ -34,3 +35,6 @@ Atividades e projetos desenvolvidos no contexto da UAB.
 ## 🎯 Objetivo
 
 Este repositório serve como registro de aprendizado contínuo em lógica de programação, servindo tanto de portfólio quanto de material de revisão pessoal.
+=======
+Programming studies, exercises, experiments, and university projects.
+
