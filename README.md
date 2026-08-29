@@ -24,7 +24,7 @@ Exercícios organizados por tópico, cobrindo os fundamentos da lógica de progr
 
 ## 💻 c-projetos
 
-Reescrita e evolução de parte da lógica praticada em Portugol, agora aplicada em C — foco em sintaxe, tipagem e particularidades da linguagem.
+Evolução de parte da lógica, agora aplicada em C — foco em sintaxe, tipagem e particularidades da linguagem.
 
 ## 🎓 uab-projetos
 
