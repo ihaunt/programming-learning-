@@ -1,0 +1,12 @@
+# Executáveis compilados
+*.exe
+*.out
+*.o
+
+# Pastas de output/build
+output/
+build/
+
+# Arquivos temporários de editores
+*.swp
+*~
